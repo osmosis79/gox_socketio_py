@@ -5,3 +5,6 @@ Just download, and run activate_gox_stream.py
 Both the websocket and socketio libraries were borrowed from,
 https://github.com/molecular/traidor
 
+Molecular in turn og thte websocket code from,
+http://pypi.python.org/pypi/websocket-client/0.4
+
