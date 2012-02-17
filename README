@@ -1,6 +1,7 @@
 
 Complete working python socket.io code for mtgox.
 Just download, and run activate_gox_stream.py
+Notice the fails, its on the mtgox server side. Still in beta.
 
 Both the websocket and socketio libraries were borrowed from,
 https://github.com/molecular/traidor
