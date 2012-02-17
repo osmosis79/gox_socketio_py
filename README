@@ -6,6 +6,6 @@ Notice the fails, its on the mtgox server side. Still in beta.
 Both the websocket and socketio libraries were borrowed from,
 https://github.com/molecular/traidor
 
-Molecular in turn og thte websocket code from,
+Molecular in turn got the websocket code from,
 http://pypi.python.org/pypi/websocket-client/0.4
 
